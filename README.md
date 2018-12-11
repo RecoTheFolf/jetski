@@ -1,6 +1,6 @@
 # Introduction
 
-Jetski is a fork of b1nzy's [Rowboat](https://github.com/b1naryth1ef/rowboat), which is a utilitarian and administration assistant for Discord. The bot was built to be highly configurable, and allow server admins to modify functionality based on the requirements of individual servers.
+Rowfox is a fork of b1nzy's [Rowboat](https://github.com/b1naryth1ef/rowboat), which is a utilitarian and administration assistant for Discord. The bot was built to be highly configurable, and allow server admins to modify functionality based on the requirements of individual servers.
 
 ## Use Cases
 
