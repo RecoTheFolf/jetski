@@ -6,7 +6,7 @@ Rowfox is a private bot, if the bot has been added to your server, then read on 
 
 ## How to Set Up
 
-Once Rowfox has been added to your server, go to [https://rowfox.recothefolf.tech/](https://rowfox.recothefolf.tech/) to edit your server's configuration. Use the sidebar to read about each plugin, then use the example below along with the information in the sidebar to set up your own customized Jetski configuration.
+Once Rowfox has been added to your server, go to [https://rowfox.recothefolf.tech/](https://rowfox.recothefolf.tech/) to edit your server's configuration. Use the sidebar to read about each plugin, then use the example below along with the information in the sidebar to set up your own customized Rowfox configuration.
 
 Below is a blank configuration example with web, utilities, admin, infractions, modlog, spam, and censor set up. While you can simply copy-paste this to your own server's configuration and fill in the blanks to have a perfectly usable Rowfox, it's highly encouraged that you read through the full documentation to understand each component and customize Rowfox to your server's needs.
 
