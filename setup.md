@@ -1,4 +1,4 @@
-# Setting Up Rowfox
+# Setting Up Jetski
 
 ## Adding the Bot
 
